@@ -1,0 +1,7 @@
+cat <<'EOF' > metadata.json
+{
+  "name": "BullyEngine - 3D Game Editor",
+  "description": "A modern, open-source 3D game engine and editor that runs in the browser. Designed for creating, modding, and sharing interactive experiences, with a focus on performance and a mobile-first future.",
+  "requestFramePermissions": []
+}
+EOF
